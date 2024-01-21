@@ -1,0 +1,16 @@
+[
+{
+  "modid": "villagercapsulemod",
+  "name": "Villager Capsule Mod",
+  "description": "Transport Villagers in Capsules.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/HoelShare/VillagerCapsuleMod",
+  "updateUrl": "",
+  "authorList": ["HoelShare"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

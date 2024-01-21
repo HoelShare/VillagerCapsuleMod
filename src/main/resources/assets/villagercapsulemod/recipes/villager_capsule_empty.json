@@ -1,0 +1,32 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"WEY",
+        "GTG",
+        "CEC"
+	],
+	"key": {
+        "W": {
+            "item": "minecraft:water_bucket"
+        },
+        "E": {
+            "item": "minecraft:emerald_block"
+        },
+        "Y": {
+            "item": "minecraft:bread"
+        },
+        "G": {
+            "item": "minecraft:glass_pane"
+        },
+        "T": {
+            "item": "minecraft:totem_of_undying"
+        },
+        "C": {
+            "item": "minecraft:chest"
+        }
+
+	},
+	"result": {
+		"item": "villagercapsulemod:villager_capsule_empty"
+	}
+}
